@@ -1,0 +1,36 @@
+{
+  "dataset_type": "MPTP",
+  "generator_model": "gpt-5.2-chat",
+  "input_gold": "C:\\Users\\prase\\Downloads\\quranrag_silab\\quran_gpt52_silab_first2600\\data\\first_2600\\canonical_gold_qas_gpt52_MPTP_first2600.json",
+  "verse_file": "C:\\Users\\prase\\Downloads\\quranrag_silab\\quran_gpt52_silab_first2600\\canonical_verses_with_theme.json",
+  "judge_models": {
+    "A": "gemma4:31b",
+    "B": "granite4.1:30b",
+    "C": "qwen3.6:35b"
+  },
+  "total_input_entries": 2600,
+  "skipped_non_qa_entries": 0,
+  "total_validated": 2600,
+  "metric_record_count": 2600,
+  "majority_consensus_size": 2536,
+  "strict_consensus_size": 2306,
+  "pairwise": {
+    "A_vs_B": {
+      "agreement": 0.9096153846153846,
+      "cohen_kappa": 0.2854469757215704
+    },
+    "A_vs_C": {
+      "agreement": 0.9623076923076923,
+      "cohen_kappa": 0.24656845641155967
+    },
+    "B_vs_C": {
+      "agreement": 0.9126923076923077,
+      "cohen_kappa": 0.1227183542422253
+    }
+  },
+  "fleiss_kappa": 0.20961662063334943,
+  "majority_output": "C:\\Users\\prase\\Downloads\\quranrag_silab\\quran_gpt52_silab_first2600\\outputs\\mptp\\gold_majority_supported_gpt52_MPTP_first2600_silab.json",
+  "strict_output": "C:\\Users\\prase\\Downloads\\quranrag_silab\\quran_gpt52_silab_first2600\\outputs\\mptp\\gold_strict_supported_gpt52_MPTP_first2600_silab.json",
+  "log_file": "C:\\Users\\prase\\Downloads\\quranrag_silab\\quran_gpt52_silab_first2600\\outputs\\mptp\\validation_log_3models_gpt52_MPTP_first2600_silab.jsonl",
+  "finished_at_local": "2026-07-26T05:57:26.466726+07:00"
+}

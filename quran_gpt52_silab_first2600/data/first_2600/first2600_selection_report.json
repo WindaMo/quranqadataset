@@ -1,0 +1,45 @@
+{
+  "selection_rule": "First 2,600 unique records with non-empty question and answer, selected independently for SPTP and MPTP.",
+  "target_size_per_dataset": 2600,
+  "datasets": {
+    "SPTP": {
+      "dataset": "SPTP",
+      "source_total_records": 4680,
+      "selected_count": 2600,
+      "skipped_non_qa_before_target_reached": 1,
+      "skipped_duplicate_before_target_reached": 0,
+      "first_selected": {
+        "surah": 1,
+        "ayat": 2
+      },
+      "last_selected": {
+        "surah": 8,
+        "ayat": 38
+      },
+      "unique_verse_count": 2600
+    },
+    "MPTP": {
+      "dataset": "MPTP",
+      "source_total_records": 4685,
+      "selected_count": 2600,
+      "skipped_non_qa_before_target_reached": 1,
+      "skipped_duplicate_before_target_reached": 0,
+      "first_selected": {
+        "surah": 114,
+        "ayat": 1
+      },
+      "last_selected": {
+        "surah": 57,
+        "ayat": 11
+      },
+      "unique_verse_count": 2600
+    }
+  },
+  "cross_dataset_comparison": {
+    "same_order": false,
+    "same_verse_set": false,
+    "intersection_size": 2576,
+    "sptp_only_count": 24,
+    "mptp_only_count": 24
+  }
+}

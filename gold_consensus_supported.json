@@ -1,0 +1,3362 @@
+[
+  {
+    "question": "Siapakah yang dipuji dan diakui sebagai Tuhan seluruh alam?",
+    "answer": "Allah adalah Tuhan seluruh alam dan kepada-Nya segala puji.",
+    "supporting_verses": [
+      {
+        "surah": 1,
+        "ayat": 2
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 1,
+    "ayat": 2,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Siapakah yang mengetahui yang gaib dan yang nyata serta Maha Pengasih dan Maha Penyayang?",
+    "answer": "Allah, tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 59,
+        "ayat": 22
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 59,
+    "ayat": 22,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN"
+    ]
+  },
+  {
+    "question": "Apakah ada tuhan selain Allah?",
+    "answer": "Tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 59,
+        "ayat": 23
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 59,
+    "ayat": 23,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN"
+    ]
+  },
+  {
+    "question": "Apa jawaban Nabi Ibrahim ketika diperintahkan untuk berserah diri?",
+    "answer": "Aku berserah diri kepada Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 131
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 131,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa alasan seseorang menyatakan tidak akan membalas meskipun orang lain berusaha membunuhnya?",
+    "answer": "Karena ia takut kepada Allah, Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 5,
+        "ayat": 28
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 5,
+    "ayat": 28,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Dalam Surah 114 ayat 3, siapa yang disebut sebagai sembahan bagi manusia?",
+    "answer": "Sembahan manusia.",
+    "supporting_verses": [
+      {
+        "surah": 114,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 114,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH TUHANNYA MANUSIA"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan Hud, dari siapa ia diutus sebagai rasul?",
+    "answer": "Ia diutus sebagai rasul dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 67
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 67,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan Nuh kepada kaumnya, dari siapakah ia diutus sebagai rasul?",
+    "answer": "Ia diutus sebagai rasul dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 61
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 61,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Kepada siapa mereka menyatakan keimanan mereka?",
+    "answer": "Mereka menyatakan keimanan kepada Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 121
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 121,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa yang diucapkan sebagai penutup doa mereka?",
+    "answer": "Penutup doa mereka adalah ucapan \"Al-Ḥamdu lillāhi Rabbil 'ālamīn\".",
+    "supporting_verses": [
+      {
+        "surah": 10,
+        "ayat": 10
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 10,
+    "ayat": 10,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Menurut keterangan tersebut, dari siapakah Alquran berasal?",
+    "answer": "Alquran berasal dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 10,
+        "ayat": 37
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 10,
+    "ayat": 37,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa yang dinyatakan Musa tentang dirinya ketika berbicara kepada Fir'aun?",
+    "answer": "Musa menyatakan bahwa dirinya adalah seorang utusan dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 104
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 104,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Siapakah Tuhan yang disebut oleh Musa sebagai Tuhan yang sebenarnya?",
+    "answer": "Tuhan yang disebut oleh Musa adalah Pencipta langit dan bumi serta segala sesuatu yang ada di antara keduanya.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 24
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 24,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa yang dilakukan oleh para pesihir pada saat itu?",
+    "answer": "Para pesihir menyungkur dan bersujud.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 46
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 46,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa pertanyaan yang diajukan Fir'aun tentang Tuhan?",
+    "answer": "Fir'aun menanyakan siapa Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 23
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 23,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Kepada siapa mereka menyatakan keimanan mereka?",
+    "answer": "Mereka menyatakan keimanan kepada Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 47
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 47,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan tersebut, dari siapa imbalan atas ajakan yang disampaikan itu berasal?",
+    "answer": "Imbalannya hanya berasal dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 109
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 109,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Dari siapa imbalan yang diharapkan atas ajakan yang disampaikan, dan apakah diminta imbalan dari manusia?",
+    "answer": "Tidak diminta imbalan dari manusia; imbalannya hanyalah dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 127
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 127,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Dari siapa imbalan yang diharapkan atas ajakan yang disampaikan tersebut?",
+    "answer": "Imbalannya hanyalah dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 145
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 145,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Siapakah yang menurunkan Alquran menurut keterangan tersebut?",
+    "answer": "Alquran diturunkan oleh Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 192
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 192,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa pernyataan yang disampaikan kepada Musa ketika dia diseru dari pinggir lembah di tempat yang diberkahi?",
+    "answer": "Disampaikan bahwa Allah menyatakan diri-Nya sebagai Allah, Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 28,
+        "ayat": 30
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 28,
+    "ayat": 30,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Menurut keterangan tersebut, dari siapa asal turunnya Alquran?",
+    "answer": "Alquran diturunkan dari Tuhan seluruh alam dan tidak ada keraguan padanya.",
+    "supporting_verses": [
+      {
+        "surah": 32,
+        "ayat": 2
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 32,
+    "ayat": 2,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Dari siapa imbalan atas ajakan yang disampaikan itu berasal?",
+    "answer": "Imbalannya hanyalah dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 180
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 180,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Siapakah yang disebut sebagai Tuhan seluruh alam?",
+    "answer": "Allah disebut sebagai Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 8
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 27,
+    "ayat": 8,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Apa yang ditanyakan mengenai pandangan seseorang terhadap Tuhan seluruh alam?",
+    "answer": "Yang ditanyakan adalah bagaimana anggapan seseorang terhadap Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 37,
+        "ayat": 87
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 37,
+    "ayat": 87,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Siapa yang disebut memperoleh selamat sejahtera?",
+    "answer": "Para rasul memperoleh selamat sejahtera.",
+    "supporting_verses": [
+      {
+        "surah": 37,
+        "ayat": 181
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 37,
+    "ayat": 181,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan tentang penciptaan bumi, langit, dan pemberian rezeki, siapakah Tuhan seluruh alam?",
+    "answer": "Allah.",
+    "supporting_verses": [
+      {
+        "surah": 40,
+        "ayat": 64
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 40,
+    "ayat": 64,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Siapakah yang dinyatakan sebagai Tuhan seluruh alam dan apa perintah kepada manusia terkait ibadah kepada-Nya?",
+    "answer": "Allah dinyatakan sebagai Tuhan seluruh alam, dan manusia diperintahkan untuk menyembah-Nya dengan tulus ikhlas karena tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 40,
+        "ayat": 65
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 40,
+    "ayat": 65,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Kepada siapa Nabi Muhammad diperintahkan untuk berserah diri?",
+    "answer": "Nabi Muhammad diperintahkan untuk berserah diri kepada Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 40,
+        "ayat": 66
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 40,
+    "ayat": 66,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Dari siapakah sesuatu itu diturunkan menurut keterangan tersebut?",
+    "answer": "Dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 56,
+        "ayat": 80
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 56,
+    "ayat": 80,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Menurut Alquran, dari siapa wahyu itu diturunkan?",
+    "answer": "Wahyu itu diturunkan dari Tuhan seluruh alam.",
+    "supporting_verses": [
+      {
+        "surah": 69,
+        "ayat": 43
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 69,
+    "ayat": 43,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KETUHANAN ALLAH",
+      "ALLAH ADALAH TUHAN SERU SEKALIAN ALAM"
+    ]
+  },
+  {
+    "question": "Bagaimana keesaan Tuhan dan sifat-sifat-Nya yang disebutkan?",
+    "answer": "Tuhan adalah Tuhan Yang Maha Esa, tidak ada tuhan selain Dia, serta memiliki sifat Maha Pengasih dan Maha Penyayang.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 163
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 163,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan tersebut, berapa jumlah tuhan yang berhak disembah?",
+    "answer": "Hanya satu, yaitu Tuhan Yang Esa, dan tidak ada tuhan yang berhak disembah selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 5,
+        "ayat": 73
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 5,
+    "ayat": 73,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Manakah yang dinyatakan lebih baik: tuhan-tuhan yang bermacam-macam atau Allah Yang Maha Esa dan Mahaperkasa?",
+    "answer": "Yang lebih baik adalah Allah Yang Maha Esa dan Mahaperkasa.",
+    "supporting_verses": [
+      {
+        "surah": 12,
+        "ayat": 39
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 12,
+    "ayat": 39,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Bagaimana Al-Qur'an menjelaskan kedudukan Al-Masih Isa putra Maryam dan keyakinan yang benar tentang Allah?",
+    "answer": "Al-Masih Isa putra Maryam dijelaskan sebagai utusan Allah, diciptakan dengan kalimat-Nya yang disampaikan kepada Maryam dan dengan tiupan roh dari-Nya. Manusia diperintahkan beriman kepada Allah dan rasul-rasul-Nya, tidak mengatakan bahwa Tuhan itu tiga, karena Allah adalah Tuhan Yang Maha Esa, Mahasuci dari anggapan mempunyai anak, dan milik-Nyalah apa yang ada di langit dan di bumi.",
+    "supporting_verses": [
+      {
+        "surah": 4,
+        "ayat": 171
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 4,
+    "ayat": 171,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Apa tujuan Alquran diberikan sebagai penjelasan bagi manusia?",
+    "answer": "Tujuannya adalah agar manusia diberi peringatan, mengetahui bahwa Allah adalah Tuhan Yang Maha Esa, dan agar orang yang berakal mengambil pelajaran.",
+    "supporting_verses": [
+      {
+        "surah": 14,
+        "ayat": 52
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 14,
+    "ayat": 52,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Bagaimana keadaan hati orang yang tidak beriman kepada akhirat menurut ajaran tersebut?",
+    "answer": "Hati mereka mengingkari keesaan Allah dan mereka adalah orang yang sombong.",
+    "supporting_verses": [
+      {
+        "surah": 16,
+        "ayat": 22
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 16,
+    "ayat": 22,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Siapakah Tuhan Yang Maha Esa menurut pernyataan yang disampaikan dalam wahyu tersebut?",
+    "answer": "Allah adalah satu-satunya Tuhan Yang Maha Esa dan tidak ada tuhan lain bersama-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 19
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 19,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Apa isi wahyu yang disampaikan mengenai Tuhan dan sikap yang diminta dari manusia?",
+    "answer": "Bahwa Tuhan adalah Tuhan Yang Esa dan manusia diminta untuk berserah diri kepada-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 21,
+        "ayat": 108
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 21,
+    "ayat": 108,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Apa yang harus dilakukan oleh seseorang yang mengharap pertemuan dengan Tuhannya?",
+    "answer": "Ia harus mengerjakan kebajikan dan tidak mempersekutukan sesuatu pun dalam beribadah kepada Tuhannya.",
+    "supporting_verses": [
+      {
+        "surah": 18,
+        "ayat": 110
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 18,
+    "ayat": 110,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya tuhan yang disebutkan sebagai Yang Maha Esa dan Mahaperkasa?",
+    "answer": "Satu-satunya tuhan adalah Allah Yang Maha Esa dan Mahaperkasa.",
+    "supporting_verses": [
+      {
+        "surah": 38,
+        "ayat": 65
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 38,
+    "ayat": 65,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya Tuhan yang diperintahkan untuk disembah menurut firman Allah?",
+    "answer": "Hanyalah Allah sebagai Tuhan Yang Maha Esa.",
+    "supporting_verses": [
+      {
+        "surah": 16,
+        "ayat": 51
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 16,
+    "ayat": 51,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Siapa yang memiliki apa yang ada di langit dan apa yang ada di bumi?",
+    "answer": "Allah memiliki apa yang ada di langit dan apa yang ada di bumi.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 255
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 255,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang diwahyukan kepada Muhammad tentang Tuhan manusia?",
+    "answer": "Bahwa Tuhan manusia adalah Tuhan Yang Maha Esa.",
+    "supporting_verses": [
+      {
+        "surah": 41,
+        "ayat": 6
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 41,
+    "ayat": 6,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH TUHAN YANG SATU"
+    ]
+  },
+  {
+    "question": "Siapakah Allah menurut pernyataan tentang keesaan-Nya?",
+    "answer": "Allah adalah Yang Maha Esa.",
+    "supporting_verses": [
+      {
+        "surah": 112,
+        "ayat": 1
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 112,
+    "ayat": 1,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "ALLAH ADALAH SATU-SATUNYA TUHAN"
+    ]
+  },
+  {
+    "question": "Siapakah yang membentuk manusia dalam rahim dan bagaimana sifat ketuhanan-Nya?",
+    "answer": "Allah yang membentuk manusia dalam rahim menurut kehendak-Nya, tidak ada tuhan selain Dia, dan Dia Mahaperkasa serta Mahabijaksana.",
+    "supporting_verses": [
+      {
+        "surah": 3,
+        "ayat": 6
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 3,
+    "ayat": 6,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang tidak ada tuhan selain Dia dan memiliki sifat Mahahidup serta terus menerus mengurus makhluk-Nya?",
+    "answer": "Allah.",
+    "supporting_verses": [
+      {
+        "surah": 3,
+        "ayat": 2
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 3,
+    "ayat": 2,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapa saja yang menyatakan bahwa tidak ada tuhan selain Allah?",
+    "answer": "Allah sendiri, para malaikat, dan orang-orang yang berilmu yang menegakkan keadilan menyatakan bahwa tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 3,
+        "ayat": 18
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 3,
+    "ayat": 18,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang tidak ada tuhan selain Dia dan akan mengumpulkan manusia pada hari Kiamat yang tidak diragukan kejadiannya?",
+    "answer": "Allah.",
+    "supporting_verses": [
+      {
+        "surah": 4,
+        "ayat": 87
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 4,
+    "ayat": 87,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Menurut Surah Al-An’am ayat 102, siapakah Pencipta segala sesuatu?",
+    "answer": "Allah adalah Pencipta segala sesuatu.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 102
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 102,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Menurut ajaran yang disebutkan, siapakah satu-satunya yang harus disembah dan bagaimana penegasan tentang keberadaan tuhan selain-Nya?",
+    "answer": "Yang harus disembah hanyalah Tuhan Yang Maha Esa; tidak ada tuhan selain Dia, dan Dia Mahasuci dari apa yang mereka persekutukan.",
+    "supporting_verses": [
+      {
+        "surah": 9,
+        "ayat": 31
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 9,
+    "ayat": 31,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang memiliki kerajaan langit dan bumi serta tidak ada tuhan yang berhak disembah selain Dia?",
+    "answer": "Allah adalah yang memiliki kerajaan langit dan bumi dan tidak ada tuhan yang berhak disembah selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 158
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 158,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan yang disampaikan, siapa satu-satunya Tuhan yang diakui, dan kepada siapa bertawakal serta bertobat?",
+    "answer": "Dia adalah Tuhan Yang Maha Pengasih; tidak ada tuhan selain Dia, dan hanya kepada-Nya bertawakal serta bertobat.",
+    "supporting_verses": [
+      {
+        "surah": 13,
+        "ayat": 30
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 13,
+    "ayat": 30,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan tersebut, siapakah satu-satunya tuhan dan kepada siapa seseorang menyerahkan tawakalnya?",
+    "answer": "Allah adalah satu-satunya tuhan; hanya kepada-Nya seseorang bertawakal, dan Dia adalah Tuhan yang memiliki Arasy yang agung.",
+    "supporting_verses": [
+      {
+        "surah": 9,
+        "ayat": 129
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 9,
+    "ayat": 129,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang tidak ada tuhan selain Dia dan memiliki nama-nama yang terbaik?",
+    "answer": "Allah, tidak ada tuhan selain Dia, dan Dia memiliki nama-nama yang terbaik.",
+    "supporting_verses": [
+      {
+        "surah": 20,
+        "ayat": 8
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 20,
+    "ayat": 8,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah Tuhan yang disebut sebagai satu-satunya Tuhan dan bagaimana cakupan pengetahuan-Nya?",
+    "answer": "Tuhan yang dimaksud adalah Allah, tidak ada Tuhan selain Dia, dan pengetahuan-Nya meliputi segala sesuatu.",
+    "supporting_verses": [
+      {
+        "surah": 20,
+        "ayat": 98
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 20,
+    "ayat": 98,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang dinyatakan sebagai satu-satunya tuhan yang berhak disembah dan apa kedudukan-Nya?",
+    "answer": "Allah Mahatinggi adalah Raja yang sebenarnya; tidak ada tuhan yang berhak disembah selain Dia, dan Dia adalah Tuhan yang memiliki Arasy yang mulia.",
+    "supporting_verses": [
+      {
+        "surah": 23,
+        "ayat": 116
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 23,
+    "ayat": 116,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya Tuhan dan bagaimana kedudukan-Nya disebutkan terkait Arasy?",
+    "answer": "Allah adalah satu-satunya Tuhan, tidak ada tuhan selain Dia, dan Dia adalah Tuhan yang mempunyai Arasy yang agung.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 26
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 27,
+    "ayat": 26,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Menurut keterangan tersebut, kepada siapa segala puji di dunia dan di akhirat?",
+    "answer": "Segala puji di dunia dan di akhirat adalah bagi Allah.",
+    "supporting_verses": [
+      {
+        "surah": 28,
+        "ayat": 70
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 28,
+    "ayat": 70,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah Tuhan yang memiliki kerajaan dan tidak ada tuhan selain Dia menurut penjelasan tersebut?",
+    "answer": "Allah, Tuhanmu, yang memiliki kerajaan, dan tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 39,
+        "ayat": 6
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 39,
+    "ayat": 6,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Dalam ajaran ini, adakah tuhan selain Allah dan kepada siapa semua makhluk kembali?",
+    "answer": "Tidak ada tuhan selain Dia, dan semua makhluk kembali hanya kepada-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 40,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 40,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya tuhan yang berhak disembah?",
+    "answer": "Allah, tidak ada tuhan yang berhak disembah selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 28,
+        "ayat": 88
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 28,
+    "ayat": 88,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang menghidupkan dan mematikan serta menjadi Tuhan manusia dan nenek moyangnya?",
+    "answer": "Allah, tidak ada tuhan selain Dia; Dia yang menghidupkan dan mematikan, dan Dia adalah Tuhan manusia serta Tuhan nenek moyangnya dahulu.",
+    "supporting_verses": [
+      {
+        "surah": 44,
+        "ayat": 8
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 44,
+    "ayat": 8,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang harus diyakini seseorang tentang keberadaan tuhan menurut Surah ke-47 ayat 19?",
+    "answer": "Bahwa tidak ada tuhan yang patut disembah selain Allah.",
+    "supporting_verses": [
+      {
+        "surah": 47,
+        "ayat": 19
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 47,
+    "ayat": 19,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan tersebut, siapakah satu-satunya Tuhan?",
+    "answer": "Allah adalah satu-satunya Tuhan.",
+    "supporting_verses": [
+      {
+        "surah": 64,
+        "ayat": 13
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 64,
+    "ayat": 13,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang disebut sebagai Tuhan dan Pencipta segala sesuatu serta tidak memiliki sekutu dalam ketuhanan?",
+    "answer": "Allah adalah Tuhanmu, Pencipta segala sesuatu, dan tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 40,
+        "ayat": 62
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 40,
+    "ayat": 62,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang akan dialami oleh orang yang menganggap adanya tuhan selain Allah?",
+    "answer": "Mereka kelak akan mengetahui akibatnya.",
+    "supporting_verses": [
+      {
+        "surah": 15,
+        "ayat": 96
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 15,
+    "ayat": 96,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Siapakah Tuhan yang menguasai timur dan barat, dan apa perintah yang berkaitan dengan-Nya?",
+    "answer": "Dialah Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung.",
+    "supporting_verses": [
+      {
+        "surah": 73,
+        "ayat": 9
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 73,
+    "ayat": 9,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK ADA TUHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang dianggap paling zalim dalam pernyataan tersebut?",
+    "answer": "Orang yang mengada-adakan kebohongan terhadap Allah.",
+    "supporting_verses": [
+      {
+        "surah": 18,
+        "ayat": 15
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 18,
+    "ayat": 15,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apa alasan mereka memilih tuhan-tuhan selain Allah?",
+    "answer": "Agar tuhan-tuhan itu menjadi pelindung bagi mereka.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 81
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 81,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apakah tuhan-tuhan yang diambil dari bumi mampu menghidupkan orang-orang yang mati?",
+    "answer": "Tidak, tuhan-tuhan yang diambil dari bumi tidak dapat menghidupkan orang-orang yang mati.",
+    "supporting_verses": [
+      {
+        "surah": 21,
+        "ayat": 21
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 21,
+    "ayat": 21,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apa balasan bagi siapa pun yang mengaku sebagai tuhan selain Allah?",
+    "answer": "Ia akan diberi balasan dengan Jahanam, dan itu merupakan balasan bagi orang-orang yang zalim.",
+    "supporting_verses": [
+      {
+        "surah": 21,
+        "ayat": 29
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 21,
+    "ayat": 29,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Menurut perumpamaan yang ditujukan kepada manusia, apa yang tidak mampu dilakukan oleh segala yang diseru selain Allah?",
+    "answer": "Segala yang diseru selain Allah tidak mampu menciptakan seekor lalat pun meskipun mereka bersatu, dan tidak mampu merebut kembali sesuatu yang dirampas lalat dari mereka.",
+    "supporting_verses": [
+      {
+        "surah": 22,
+        "ayat": 73
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 22,
+    "ayat": 73,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apa perumpamaan bagi orang-orang yang mengambil pelindung selain Allah, dan bagaimana sifat rumah dalam perumpamaan tersebut?",
+    "answer": "Mereka diumpamakan seperti laba-laba yang membuat rumah, dan rumah itu adalah rumah yang paling lemah.",
+    "supporting_verses": [
+      {
+        "surah": 29,
+        "ayat": 41
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 29,
+    "ayat": 41,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Mengapa tidak mungkin ada lebih dari satu tuhan menurut ajaran tersebut?",
+    "answer": "Karena Allah tidak mempunyai anak dan tidak ada tuhan lain bersama-Nya. Jika ada banyak tuhan, masing-masing akan membawa makhluk ciptaannya sendiri dan sebagian akan mengalahkan yang lain, sehingga Allah Mahasuci dari sifat-sifat seperti itu.",
+    "supporting_verses": [
+      {
+        "surah": 23,
+        "ayat": 91
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 23,
+    "ayat": 91,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apa alasan orang-orang mengangkat sesembahan selain Allah menurut Surah Yasin?",
+    "answer": "Mereka mengangkat sesembahan selain Allah dengan harapan mendapatkan pertolongan.",
+    "supporting_verses": [
+      {
+        "surah": 36,
+        "ayat": 74
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 36,
+    "ayat": 74,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Bagaimana tanggapan terhadap pernyataan bahwa Allah mempunyai anak?",
+    "answer": "Allah Mahasuci; segala yang ada di langit dan di bumi adalah milik-Nya dan semuanya tunduk kepada-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 116
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 116,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa akibat bagi orang yang mempersekutukan Allah dengan tuhan lain?",
+    "answer": "Dia akan dilemparkan ke dalam azab yang keras.",
+    "supporting_verses": [
+      {
+        "surah": 50,
+        "ayat": 26
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 50,
+    "ayat": 26,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apa kemampuan sesembahan selain Allah dalam menolong para penyembahnya menurut keterangan tersebut?",
+    "answer": "Sesembahan itu tidak mampu menolong para penyembahnya, bahkan para penyembah itulah yang menjadi seperti tentara yang disiapkan untuk menjaga sesembahan tersebut.",
+    "supporting_verses": [
+      {
+        "surah": 36,
+        "ayat": 75
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 36,
+    "ayat": 75,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TIDAK MUNGKIN ADANYA BEBERAPA TUHAN"
+    ]
+  },
+  {
+    "question": "Apa kebohongan yang dikatakan orang-orang musyrik tentang Allah menurut teks tersebut?",
+    "answer": "Mereka mengatakan bahwa Allah mempunyai anak laki-laki dan anak perempuan tanpa dasar pengetahuan.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 100
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 100,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Mengapa Allah tidak mempunyai anak menurut ajaran tauhid?",
+    "answer": "Karena Allah adalah Pencipta langit dan bumi, Dia tidak mempunyai istri, Dia menciptakan segala sesuatu, dan Dia mengetahui segala sesuatu.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 101
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 101,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Kepada siapa peringatan itu ditujukan menurut pernyataan tersebut?",
+    "answer": "Peringatan itu ditujukan kepada orang yang berkata bahwa Allah mengambil seorang anak.",
+    "supporting_verses": [
+      {
+        "surah": 18,
+        "ayat": 4
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 18,
+    "ayat": 4,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa yang dikatakan oleh mereka tentang Allah Yang Maha Pengasih?",
+    "answer": "Mereka mengatakan bahwa Allah Yang Maha Pengasih mempunyai anak.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 88
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 88,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Bagaimana penilaian terhadap ucapan mereka mengenai hal tersebut menurut keterangan ini?",
+    "answer": "Mereka sama sekali tidak memiliki pengetahuan tentang hal itu, demikian pula nenek moyang mereka, dan ucapan yang keluar dari mulut mereka hanyalah kebohongan.",
+    "supporting_verses": [
+      {
+        "surah": 18,
+        "ayat": 5
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 18,
+    "ayat": 5,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa yang dikatakan orang-orang Yahudi dan Nasrani tentang hubungan Uzair dan Al-Masih dengan Allah menurut Al-Qur'an?",
+    "answer": "Orang-orang Yahudi mengatakan bahwa Uzair adalah putra Allah, dan orang-orang Nasrani mengatakan bahwa Al-Masih adalah putra Allah. Ucapan itu keluar dari mulut mereka, meniru perkataan orang-orang kafir terdahulu, dan Allah melaknat mereka karena telah berpaling.",
+    "supporting_verses": [
+      {
+        "surah": 9,
+        "ayat": 30
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 9,
+    "ayat": 30,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa gambaran dampak dahsyat yang hampir terjadi akibat suatu ucapan menurut Surah Maryam?",
+    "answer": "Langit hampir pecah, bumi terbelah, dan gunung-gunung runtuh.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 90
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 90,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa anggapan yang disematkan kepada Allah Yang Maha Pengasih oleh mereka?",
+    "answer": "Mereka menganggap bahwa Allah Yang Maha Pengasih mempunyai anak.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 91
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 91,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apakah Allah Yang Maha Pengasih mungkin mempunyai anak?",
+    "answer": "Tidak mungkin bagi Allah Yang Maha Pengasih mempunyai anak.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 92
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 92,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Bagaimana sifat Tuhan terkait kepemilikan anak menurut ajaran Al-Qur'an?",
+    "answer": "Tuhan tidak mempunyai anak.",
+    "supporting_verses": [
+      {
+        "surah": 25,
+        "ayat": 2
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 25,
+    "ayat": 2,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa yang dipertanyakan mengenai pilihan Allah terkait anak?",
+    "answer": "Dipertanyakan apakah Allah memilih anak-anak perempuan daripada anak-anak laki-laki.",
+    "supporting_verses": [
+      {
+        "surah": 37,
+        "ayat": 153
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 37,
+    "ayat": 153,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa yang dipertanyakan mengenai kemampuan kamu untuk menunjukkan sesuatu?",
+    "answer": "Apakah kamu mempunyai bukti yang jelas.",
+    "supporting_verses": [
+      {
+        "surah": 37,
+        "ayat": 156
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 37,
+    "ayat": 156,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK BERANAK"
+    ]
+  },
+  {
+    "question": "Apa pernyataan tentang adanya sesuatu yang setara dengan Allah?",
+    "answer": "Tidak ada sesuatu pun yang setara dengan Dia.",
+    "supporting_verses": [
+      {
+        "surah": 112,
+        "ayat": 4
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 112,
+    "ayat": 4,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK DIBERANAKKAN"
+    ]
+  },
+  {
+    "question": "Bagaimana sifat Tuhan terkait pasangan dan keturunan menurut ajaran tersebut?",
+    "answer": "Tuhan Mahatinggi keagungan-Nya dan Dia tidak beristri serta tidak beranak.",
+    "supporting_verses": [
+      {
+        "surah": 72,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 72,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "KEESAAN ALLAH",
+      "TUHAN TIDAK PUNYA TEMAN (YANG JUGA TUHAN)"
+    ]
+  },
+  {
+    "question": "Menurut janji yang diambil dari Bani Israil, siapa satu-satunya yang boleh disembah?",
+    "answer": "Yang boleh disembah hanyalah Allah.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 83
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 83,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa penyembahan diarahkan dalam ajakan yang ditujukan kepada Ahli Kitab?",
+    "answer": "Penyembahan diarahkan hanya kepada Allah dan tidak mempersekutukan-Nya dengan sesuatu pun.",
+    "supporting_verses": [
+      {
+        "surah": 3,
+        "ayat": 64
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 3,
+    "ayat": 64,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa perintah yang disampaikan mengenai siapa yang harus disembah?",
+    "answer": "Perintahnya adalah agar menyembah Allah, Tuhanku dan Tuhanmu.",
+    "supporting_verses": [
+      {
+        "surah": 5,
+        "ayat": 117
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 5,
+    "ayat": 117,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa manusia diperintahkan untuk menyembah dan apa larangan yang menyertainya?",
+    "answer": "Manusia diperintahkan untuk menyembah Allah dan dilarang mempersekutukan-Nya dengan sesuatu apa pun.",
+    "supporting_verses": [
+      {
+        "surah": 4,
+        "ayat": 36
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 4,
+    "ayat": 36,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut perkataan Al-Masih kepada Bani Israil, siapa yang harus mereka sembah?",
+    "answer": "Mereka harus menyembah Allah, Tuhanku dan Tuhanmu.",
+    "supporting_verses": [
+      {
+        "surah": 5,
+        "ayat": 72
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 5,
+    "ayat": 72,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang harus disembah sebagai Tuhan menurut keterangan tentang penciptaan dan pengaturan seluruh urusan?",
+    "answer": "Yang harus disembah adalah Allah saja, Tuhan yang menciptakan langit dan bumi serta mengatur segala urusan.",
+    "supporting_verses": [
+      {
+        "surah": 10,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 10,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan tersebut, kepada siapa penyembahan harus ditujukan?",
+    "answer": "Penyembahan harus ditujukan hanya kepada Allah.",
+    "supporting_verses": [
+      {
+        "surah": 11,
+        "ayat": 2
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 11,
+    "ayat": 2,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa seruan yang disampaikan Saleh kepada kaum Samud mengenai siapa yang harus disembah?",
+    "answer": "Saleh menyeru kaum Samud agar menyembah Allah saja karena tidak ada tuhan yang patut disembah selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 73
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 73,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa seruan utama Nabi Syu'aib kepada kaum Madyan terkait dengan siapa yang harus disembah?",
+    "answer": "Nabi Syu'aib menyeru kaum Madyan agar menyembah Allah saja dan menegaskan bahwa tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 11,
+        "ayat": 84
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 11,
+    "ayat": 84,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya yang diperintahkan untuk disembah oleh Nabi Saleh kepada kaumnya?",
+    "answer": "Allah, karena tidak ada tuhan selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 11,
+        "ayat": 61
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 11,
+    "ayat": 61,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa seruan Hud kepada kaumnya mengenai siapa yang harus disembah?",
+    "answer": "Hud menyeru kaumnya agar menyembah Allah saja dan menegaskan bahwa tidak ada tuhan bagi mereka selain Dia, sedangkan yang lain hanyalah mengada-ada.",
+    "supporting_verses": [
+      {
+        "surah": 11,
+        "ayat": 50
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 11,
+    "ayat": 50,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut ajaran tersebut, siapa satu-satunya yang boleh disembah?",
+    "answer": "Hanya Allah yang boleh disembah, karena keputusan hanyalah milik Allah dan Dia memerintahkan agar tidak menyembah selain Dia.",
+    "supporting_verses": [
+      {
+        "surah": 12,
+        "ayat": 40
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 12,
+    "ayat": 40,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa seruan utama yang dibawa para rasul kepada setiap umat mengenai penyembahan?",
+    "answer": "Para rasul menyerukan agar menyembah Allah dan menjauhi tagut.",
+    "supporting_verses": [
+      {
+        "surah": 16,
+        "ayat": 36
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 16,
+    "ayat": 36,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa perintah yang disampaikan Muhammad mengenai kepada siapa ia harus menyembah dan mengajak manusia?",
+    "answer": "Ia diperintah untuk menyembah Allah saja tanpa mempersekutukan-Nya, mengajak manusia hanya kepada-Nya, dan kembali hanya kepada-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 13,
+        "ayat": 36
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 13,
+    "ayat": 36,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya yang boleh disembah dan perintah apa yang diberikan terkait ibadah?",
+    "answer": "Yang boleh disembah hanyalah Allah, dan perintah yang diberikan adalah menyembah-Nya serta melaksanakan salat untuk mengingat-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 20,
+        "ayat": 14
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 20,
+    "ayat": 14,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut perkataan Isa, siapa yang harus disembah oleh manusia?",
+    "answer": "Yang harus disembah adalah Allah.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 36
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 36,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa isi wahyu yang disampaikan kepada para rasul tentang siapa yang berhak disembah?",
+    "answer": "Bahwa tidak ada tuhan yang berhak disembah selain Allah, dan perintahnya adalah menyembah-Nya saja.",
+    "supporting_verses": [
+      {
+        "surah": 21,
+        "ayat": 25
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 21,
+    "ayat": 25,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa perintah untuk menyembah diarahkan sebagai Tuhan yang menguasai langit dan bumi?",
+    "answer": "Perintah menyembah diarahkan kepada Dia, Tuhan yang menguasai langit dan bumi serta segala yang ada di antara keduanya.",
+    "supporting_verses": [
+      {
+        "surah": 19,
+        "ayat": 65
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 19,
+    "ayat": 65,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa seruan Nabi Nuh kepada kaumnya terkait siapa yang harus disembah?",
+    "answer": "Nabi Nuh menyeru kaumnya untuk menyembah Allah saja, karena tidak ada tuhan yang berhak disembah selain Dia, serta mengajak mereka untuk bertakwa kepada-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 23,
+        "ayat": 23
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 23,
+    "ayat": 23,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa sikap dalam beribadah yang disebutkan sebagai syarat agar orang-orang beriman mendapatkan keamanan dan keteguhan dari Allah?",
+    "answer": "Mereka harus menyembah Allah dengan tidak mempersekutukan-Nya dengan sesuatu pun.",
+    "supporting_verses": [
+      {
+        "surah": 24,
+        "ayat": 55
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 24,
+    "ayat": 55,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa perintah yang diterima Muhammad terkait penyembahan dan kepemilikan segala sesuatu?",
+    "answer": "Muhammad diperintahkan untuk menyembah Tuhan negeri Mekkah yang telah Dia jadikan suci, mengakui bahwa segala sesuatu adalah milik-Nya, dan termasuk orang-orang muslim.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 91
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 27,
+    "ayat": 91,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa seruan yang disampaikan Saleh kepada kaum Samud?",
+    "answer": "Saleh menyeru kaum Samud agar menyembah Allah.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 45
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 27,
+    "ayat": 45,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut seruan Nabi Syu'aib kepada kaum Madyan, siapakah yang harus mereka sembah?",
+    "answer": "Mereka diperintahkan untuk menyembah Allah.",
+    "supporting_verses": [
+      {
+        "surah": 29,
+        "ayat": 36
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 29,
+    "ayat": 36,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut ajaran tersebut, dari siapa rezeki harus diminta dan siapa yang wajib disembah?",
+    "answer": "Rezeki harus diminta dari Allah, dan hanya Dia yang wajib disembah serta disyukuri.",
+    "supporting_verses": [
+      {
+        "surah": 29,
+        "ayat": 17
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 29,
+    "ayat": 17,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa perintah yang disebut sebagai jalan yang lurus?",
+    "answer": "Perintah tersebut adalah menyembah Allah.",
+    "supporting_verses": [
+      {
+        "surah": 36,
+        "ayat": 61
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 36,
+    "ayat": 61,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya yang harus disembah?",
+    "answer": "Allah saja yang harus disembah.",
+    "supporting_verses": [
+      {
+        "surah": 39,
+        "ayat": 66
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 39,
+    "ayat": 66,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa yang diserukan para rasul kepada kaum mereka tentang siapa yang boleh disembah?",
+    "answer": "Para rasul menyerukan agar tidak menyembah selain Allah.",
+    "supporting_verses": [
+      {
+        "surah": 41,
+        "ayat": 14
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 41,
+    "ayat": 14,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Menurut pernyataan bahwa bumi adalah milik-Nya dan luas, siapakah yang diperintahkan untuk disembah?",
+    "answer": "Yang diperintahkan untuk disembah adalah Allah saja.",
+    "supporting_verses": [
+      {
+        "surah": 29,
+        "ayat": 56
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 29,
+    "ayat": 56,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa ibadah diarahkan dengan penuh ketaatan dalam menjalankan agama?",
+    "answer": "Ibadah diarahkan hanya kepada Allah dengan penuh ketaatan dalam menjalankan agama.",
+    "supporting_verses": [
+      {
+        "surah": 39,
+        "ayat": 14
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 39,
+    "ayat": 14,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa peringatan yang disampaikan Hud kepada kaumnya terkait dengan penyembahan dan akibatnya?",
+    "answer": "Hud memperingatkan kaumnya agar tidak menyembah selain Allah dan menyampaikan kekhawatiran akan datangnya azab pada hari yang besar jika mereka tetap melanggar.",
+    "supporting_verses": [
+      {
+        "surah": 46,
+        "ayat": 21
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 46,
+    "ayat": 21,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa tujuan penciptaan jin dan manusia?",
+    "answer": "Tujuan penciptaan jin dan manusia adalah agar mereka beribadah kepada Allah.",
+    "supporting_verses": [
+      {
+        "surah": 51,
+        "ayat": 56
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 51,
+    "ayat": 56,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Apa saja perintah yang berkaitan dengan penyembahan dan ketaatan kepada Allah?",
+    "answer": "Perintahnya adalah menyembah Allah, bertakwa kepada-Nya, dan taat kepada rasul.",
+    "supporting_verses": [
+      {
+        "surah": 71,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 71,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa manusia diperintahkan untuk bersujud dan menyembah?",
+    "answer": "Manusia diperintahkan untuk bersujud dan menyembah Allah.",
+    "supporting_verses": [
+      {
+        "surah": 53,
+        "ayat": 62
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 53,
+    "ayat": 62,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang diperintahkan untuk disembah menurut Surah 106 ayat 3?",
+    "answer": "Tuhan pemilik rumah ini (Ka'bah).",
+    "supporting_verses": [
+      {
+        "surah": 106,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 106,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "HANYA ALLAH SAJA YANG BOLEH DISEMBAH"
+    ]
+  },
+  {
+    "question": "Mengapa penyembahan kepada selain Allah dipertanyakan dalam ajaran ini?",
+    "answer": "Karena yang disembah selain Allah tidak dapat menimbulkan bencana dan tidak pula memberi manfaat, sedangkan Allah Maha Mendengar dan Maha Mengetahui.",
+    "supporting_verses": [
+      {
+        "surah": 5,
+        "ayat": 76
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 5,
+    "ayat": 76,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa pernyataan Muhammad tentang sikapnya terhadap penyembahan selain Allah dan mengikuti keinginan mereka?",
+    "answer": "Muhammad menyatakan bahwa ia dilarang menyembah tuhan-tuhan selain Allah dan tidak akan mengikuti keinginan mereka, karena jika melakukannya ia akan tersesat dan tidak termasuk orang yang mendapat petunjuk.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 56
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 56,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa alasan Ibrahim mempertanyakan penyembahan kepada selain Allah?",
+    "answer": "Karena yang disembah selain Allah tidak dapat memberi manfaat sedikit pun dan juga tidak mendatangkan mudarat.",
+    "supporting_verses": [
+      {
+        "surah": 21,
+        "ayat": 66
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 21,
+    "ayat": 66,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang mereka sembah dan bagaimana kesungguhan mereka dalam penyembahan tersebut?",
+    "answer": "Mereka menyembah berhala-berhala dan mereka senantiasa tekun menyembahnya.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 71
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 71,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapa saja yang disebut bersama kamu dalam pernyataan tersebut?",
+    "answer": "Nenek moyang kamu yang terdahulu.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 76
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 76,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang dikatakan Ibrahim kepada berhala-berhala kaumnya ketika ia mendatangi mereka secara diam-diam?",
+    "answer": "Ia berkata kepada berhala-berhala itu, \"Mengapa kamu tidak makan.\"",
+    "supporting_verses": [
+      {
+        "surah": 37,
+        "ayat": 91
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 37,
+    "ayat": 91,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang ditolak untuk disembah dalam pernyataan tersebut?",
+    "answer": "Menyembah selain Allah.",
+    "supporting_verses": [
+      {
+        "surah": 39,
+        "ayat": 64
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 39,
+    "ayat": 64,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa tindakan yang dilakukan terhadap berhala-berhala tersebut?",
+    "answer": "Berhala-berhala itu dihadapi lalu dipukul dengan tangan kanan.",
+    "supporting_verses": [
+      {
+        "surah": 37,
+        "ayat": 93
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 37,
+    "ayat": 93,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Bagaimana sikap Ibrahim dan orang-orang yang bersamanya terhadap kaumnya dan sembahan selain Allah?",
+    "answer": "Mereka menyatakan berlepas diri dari kaumnya dan dari apa yang disembah selain Allah, mengingkari kekafiran mereka, serta menegaskan adanya permusuhan dan kebencian sampai kaumnya beriman hanya kepada Allah.",
+    "supporting_verses": [
+      {
+        "surah": 60,
+        "ayat": 4
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 60,
+    "ayat": 4,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa larangan yang diberikan setelah Allah menyebutkan nikmat bumi, langit, dan rezeki berupa buah-buahan?",
+    "answer": "Larangan tersebut adalah mengadakan tandingan-tandingan bagi Allah.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 22
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 22,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa Muhammad diperintahkan untuk menyampaikan seruan dalam perintah tersebut?",
+    "answer": "Kepada orang-orang kafir.",
+    "supporting_verses": [
+      {
+        "surah": 109,
+        "ayat": 1
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 109,
+    "ayat": 1,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa jawaban anak-anak Yakub ketika ditanya tentang siapa yang akan mereka sembah setelah beliau wafat?",
+    "answer": "Mereka menjawab bahwa mereka akan menyembah Tuhan Yakub dan Tuhan nenek moyang mereka, yaitu Ibrahim, Ismail, dan Ishak, Tuhan Yang Mahaesa, dan mereka berserah diri hanya kepada-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 2,
+        "ayat": 133
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 2,
+    "ayat": 133,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa sikap penutur terhadap sesembahan yang disembah oleh orang lain?",
+    "answer": "Penutur menegaskan bahwa ia tidak akan menyembah apa yang mereka sembah.",
+    "supporting_verses": [
+      {
+        "surah": 109,
+        "ayat": 2
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 109,
+    "ayat": 2,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "PENGINGKARAN PENYEMBAHAN SELAIN ALLAH"
+    ]
+  },
+  {
+    "question": "Dosa apa yang dinyatakan tidak akan diampuni oleh Allah menurut Surah An-Nisa ayat 116?",
+    "answer": "Dosa yang tidak akan diampuni oleh Allah adalah dosa syirik, yaitu mempersekutukan Allah dengan sesuatu.",
+    "supporting_verses": [
+      {
+        "surah": 4,
+        "ayat": 116
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 4,
+    "ayat": 116,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Bagaimana kedudukan Ibrahim terkait agama dan kemusyrikan menurut Al-Qur'an?",
+    "answer": "Ibrahim bukan seorang Yahudi dan bukan pula seorang Nasrani, tetapi seorang yang lurus, seorang muslim, dan tidak termasuk orang-orang musyrik.",
+    "supporting_verses": [
+      {
+        "surah": 3,
+        "ayat": 67
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 3,
+    "ayat": 67,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah satu-satunya pelindung yang patut dijadikan menurut pernyataan tersebut?",
+    "answer": "Pelindung yang patut dijadikan hanyalah Allah, yaitu Dia yang menjadikan langit dan bumi, memberi makan dan tidak diberi makan.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 14
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 14,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang Allah tanyakan kepada orang-orang yang menyekutukan-Nya ketika mereka semua dikumpulkan pada suatu hari?",
+    "answer": "Allah menanyakan di mana sembahan-sembahan yang dahulu mereka klaim sebagai sekutu-sekutu-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 22
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 22,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Dosa apa yang tidak akan diampuni oleh Allah, dan bagaimana penilaiannya menurut ketetapan-Nya?",
+    "answer": "Dosa mempersekutukan Allah tidak akan diampuni dan dinilai sebagai dosa yang besar, sedangkan dosa selain itu dapat diampuni bagi siapa yang Dia kehendaki.",
+    "supporting_verses": [
+      {
+        "surah": 4,
+        "ayat": 48
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 4,
+    "ayat": 48,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa pernyataan yang mereka ucapkan sebagai jawaban bohong dengan bersumpah kepada Allah?",
+    "answer": "Mereka mengatakan demi Allah, Tuhan mereka, bahwa mereka tidak mempersekutukan Allah.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 23
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 23,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Kepada siapa seseorang menghadapkan wajahnya dalam kepasrahan menurut ajaran yang benar?",
+    "answer": "Seseorang menghadapkan wajahnya kepada Allah yang menciptakan langit dan bumi dengan penuh kepasrahan mengikuti agama yang benar.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 79
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 79,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa pernyataan tentang adanya sekutu bagi Allah dan sikap yang diperintahkan kepada Nabi?",
+    "answer": "Dinyatakan bahwa tidak ada sekutu bagi-Nya, dan ia diperintahkan untuk berserah diri sebagai orang yang pertama-tama berserah diri.",
+    "supporting_verses": [
+      {
+        "surah": 6,
+        "ayat": 163
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 6,
+    "ayat": 163,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Mengapa berhala tidak layak dipersekutukan dengan Allah?",
+    "answer": "Karena berhala tidak dapat menciptakan sesuatu apa pun dan justru berhala itu sendiri adalah makhluk yang diciptakan.",
+    "supporting_verses": [
+      {
+        "surah": 7,
+        "ayat": 191
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 7,
+    "ayat": 191,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa larangan yang ditegaskan terkait penyekutuan dalam beragama?",
+    "answer": "Dilarang termasuk orang yang musyrik.",
+    "supporting_verses": [
+      {
+        "surah": 10,
+        "ayat": 105
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 10,
+    "ayat": 105,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa isi pemberitahuan dari Allah dan Rasul-Nya kepada umat manusia pada hari haji akbar terkait orang-orang musyrik?",
+    "answer": "Pemberitahuan itu menyatakan bahwa Allah dan Rasul-Nya berlepas diri dari orang-orang musyrik; jika mereka bertobat itu lebih baik bagi mereka, jika berpaling mereka tidak dapat melemahkan Allah, dan orang-orang kafir diberi kabar tentang azab yang pedih.",
+    "supporting_verses": [
+      {
+        "surah": 9,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 9,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa pernyataan Muhammad tentang sikapnya terhadap kemusyrikan dalam ajakannya kepada Allah?",
+    "answer": "Ia menyatakan bahwa dirinya tidak termasuk orang-orang musyrik.",
+    "supporting_verses": [
+      {
+        "surah": 12,
+        "ayat": 108
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 12,
+    "ayat": 108,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapa nenek moyang yang agamanya diikuti?",
+    "answer": "Ibrahim, Ishak, dan Yakub.",
+    "supporting_verses": [
+      {
+        "surah": 12,
+        "ayat": 38
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 12,
+    "ayat": 38,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa perintah yang diberikan kepada Muhammad mengenai cara menyampaikan perintah dan sikap terhadap orang musyrik?",
+    "answer": "Muhammad diperintahkan untuk menyampaikan secara terang-terangan segala yang diperintahkan kepadanya dan berpaling dari orang yang musyrik.",
+    "supporting_verses": [
+      {
+        "surah": 15,
+        "ayat": 94
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 15,
+    "ayat": 94,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Bagaimana sikap Allah terhadap perbuatan mempersekutukan-Nya menurut Surah 16 ayat 1?",
+    "answer": "Allah Mahasuci dan Mahatinggi dari apa yang mereka persekutukan.",
+    "supporting_verses": [
+      {
+        "surah": 16,
+        "ayat": 1
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 16,
+    "ayat": 1,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Bagaimana kedudukan Allah terhadap perbuatan mempersekutukan-Nya?",
+    "answer": "Allah Mahatinggi dari apa yang mereka persekutukan, dan Dia menciptakan langit dan bumi dengan kebenaran.",
+    "supporting_verses": [
+      {
+        "surah": 16,
+        "ayat": 3
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 16,
+    "ayat": 3,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Bagaimana sikap Ibrahim terhadap ketaatan kepada Allah dan perbuatan mempersekutukan Allah?",
+    "answer": "Ibrahim adalah seorang imam yang dapat dijadikan teladan, patuh kepada Allah, bersikap hanif, dan tidak termasuk orang yang mempersekutukan Allah.",
+    "supporting_verses": [
+      {
+        "surah": 16,
+        "ayat": 120
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 16,
+    "ayat": 120,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang menjadi sekutu Allah dalam menetapkan keputusan?",
+    "answer": "Tidak ada seorang pun, karena Allah tidak mengambil siapa pun sebagai sekutu-Nya dalam menetapkan keputusan.",
+    "supporting_verses": [
+      {
+        "surah": 18,
+        "ayat": 26
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 18,
+    "ayat": 26,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang diucapkan oleh seseorang setelah harta kekayaannya dibinasakan dan dia menyesal atas apa yang telah dibelanjakannya?",
+    "answer": "Dia berkata bahwa seandainya dahulu dia tidak mempersekutukan Tuhannya dengan sesuatu pun.",
+    "supporting_verses": [
+      {
+        "surah": 18,
+        "ayat": 42
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 18,
+    "ayat": 42,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Bagaimana perumpamaan yang digambarkan bagi orang yang mempersekutukan Allah?",
+    "answer": "Dia digambarkan seperti jatuh dari langit lalu disambar oleh burung, atau diterbangkan angin ke tempat yang jauh.",
+    "supporting_verses": [
+      {
+        "surah": 22,
+        "ayat": 31
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 22,
+    "ayat": 31,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa perintah Allah kepada Ibrahim ketika menempatkannya di Baitullah?",
+    "answer": "Allah memerintahkan Ibrahim agar tidak mempersekutukan-Nya dengan apa pun dan agar menyucikan Baitullah untuk orang-orang yang tawaf, beribadah, rukuk, dan sujud.",
+    "supporting_verses": [
+      {
+        "surah": 22,
+        "ayat": 26
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 22,
+    "ayat": 26,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa alasan yang menunjukkan bahwa berhala bukanlah tuhan menurut pernyataan tersebut?",
+    "answer": "Karena jika berhala benar-benar tuhan, mereka tidak akan masuk ke neraka, tetapi kenyataannya semuanya akan kekal di dalamnya.",
+    "supporting_verses": [
+      {
+        "surah": 21,
+        "ayat": 99
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 21,
+    "ayat": 99,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa larangan dalam hal penyembahan dan apa akibatnya jika dilanggar?",
+    "answer": "Dilarang menyeru atau menyembah tuhan selain Allah, karena pelakunya akan termasuk orang-orang yang diazab.",
+    "supporting_verses": [
+      {
+        "surah": 26,
+        "ayat": 213
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 26,
+    "ayat": 213,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang memperkenankan doa orang yang berada dalam kesulitan, menghilangkan kesusahan, dan adakah tuhan lain selain Dia?",
+    "answer": "Allah yang memperkenankan doa orang yang berada dalam kesulitan, menghilangkan kesusahan, dan tidak ada tuhan lain di samping-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 62
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 27,
+    "ayat": 62,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang menciptakan makhluk sejak awal, mengulanginya kembali, dan memberi rezeki dari langit dan bumi menurut ajaran tauhid?",
+    "answer": "Allah yang menciptakan makhluk dari permulaannya, mengulanginya kembali, dan memberikan rezeki dari langit dan bumi, serta tidak ada tuhan lain di samping-Nya.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 64
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 27,
+    "ayat": 64,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang menjadikan bumi sebagai tempat berdiam, menempatkan sungai-sungai dan gunung-gunung, serta memisahkan dua laut, dan apakah ada tuhan selain Allah?",
+    "answer": "Allah yang menjadikan bumi sebagai tempat berdiam, menempatkan sungai-sungai dan gunung-gunung, serta memisahkan dua laut, dan tidak ada tuhan selain Allah.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 61
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 27,
+    "ayat": 61,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Siapakah yang menciptakan langit dan bumi serta menurunkan air dari langit sehingga tumbuh kebun-kebun yang indah?",
+    "answer": "Allah yang menciptakan langit dan bumi serta menurunkan air dari langit sehingga tumbuh kebun-kebun yang berpemandangan indah.",
+    "supporting_verses": [
+      {
+        "surah": 27,
+        "ayat": 60
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "easy",
+    "surah": 27,
+    "ayat": 60,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  },
+  {
+    "question": "Apa yang terjadi ketika mereka disuruh untuk memanggil sekutu-sekutu yang dahulu mereka seru?",
+    "answer": "Mereka memanggil sekutu-sekutu itu, tetapi yang diseru tidak memberikan sambutan, lalu mereka melihat azab dan berkeinginan seandainya dahulu mereka menerima petunjuk.",
+    "supporting_verses": [
+      {
+        "surah": 28,
+        "ayat": 64
+      }
+    ],
+    "type": "single-hop",
+    "difficulty": "medium",
+    "surah": 28,
+    "ayat": 64,
+    "theme_path_used": [
+      "AQIDAH",
+      "ALLAH",
+      "PENYEMBAHAN ALLAH",
+      "LARANGAN UNTUK MENSEKUTUKAN ALLAH"
+    ]
+  }
+]

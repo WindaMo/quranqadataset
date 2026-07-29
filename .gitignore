@@ -1,0 +1,10 @@
+.idea/
+myvenv/
+__pycache__/
+*.pyc
+.python-version
+*.env
+quran_gpt52_silab_first2600/.venv
+quran_gpt52_silab_first2600/mptpvenv
+quran_gpt52_silab_first2600/run_mptp.ps1
+quran_gpt52_silab_first2600/run_sptp.ps1
