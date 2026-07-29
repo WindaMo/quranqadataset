@@ -12,7 +12,7 @@ from itertools import combinations
 client_A = AzureOpenAI(
     api_version="2024-12-01-preview",
     azure_endpoint="https://hpfq1-mig3fe7b-eastus2.cognitiveservices.azure.com/",
-    api_key="7GjmRVvd9TQhZEB6rc0lf00nWemDBjgVrIEYaxKryo4CmyEBNP4SJQQJ99BKACHYHv6XJ3w3AAAAACOGw0z2",
+    api_key="",
 )
 deployment_A = "DeepSeek-V3.2"
 
@@ -20,7 +20,7 @@ deployment_A = "DeepSeek-V3.2"
 client_B = AzureOpenAI(
     api_version="2024-12-01-preview",
     azure_endpoint="https://hpfq1-mig3fe7b-eastus2.cognitiveservices.azure.com/",
-    api_key="7GjmRVvd9TQhZEB6rc0lf00nWemDBjgVrIEYaxKryo4CmyEBNP4SJQQJ99BKACHYHv6XJ3w3AAAAACOGw0z2",
+    api_key="",
 )
 deployment_B = "Mistral-Large-3"
 
@@ -28,7 +28,7 @@ deployment_B = "Mistral-Large-3"
 client_C = AzureOpenAI(
     api_version="2024-12-01-preview",
     azure_endpoint="https://hpfq1-mig3fe7b-eastus2.cognitiveservices.azure.com/",
-    api_key="7GjmRVvd9TQhZEB6rc0lf00nWemDBjgVrIEYaxKryo4CmyEBNP4SJQQJ99BKACHYHv6XJ3w3AAAAACOGw0z2",
+    api_key="",
 )
 deployment_C = "Llama-4-Maverick-17B-128E-Instruct-FP8"
 

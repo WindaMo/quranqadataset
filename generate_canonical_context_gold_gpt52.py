@@ -9,7 +9,7 @@ from openai import AzureOpenAI
 # =====================================
 endpoint = "https://hpfq1-mig3fe7b-eastus2.cognitiveservices.azure.com/"
 deployment = "gpt-5.2-chat"
-subscription_key = "7GjmRVvd9TQhZEB6rc0lf00nWemDBjgVrIEYaxKryo4CmyEBNP4SJQQJ99BKACHYHv6XJ3w3AAAAACOGw0z2"
+subscription_key = ""
 api_version = "2024-12-01-preview"
 
 client = AzureOpenAI(
